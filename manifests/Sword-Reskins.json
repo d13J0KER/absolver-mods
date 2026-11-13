@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "id": "Sword-Reskins",
+  "name": "Sword Reskins",
+  "version": "1.0.0",
+  "author": "J0KER",
+  "description": "Reskins some of the swords",
+  "changelog": "",
+  "download_url": "https://github.com/d13J0KER/absolver-mods/releases/download/Sword-Reskins-v1.0.0/Sword-Reskins.zip",
+  "sha256": "f7364a484c09eff10b0a56f5ab64285f17d1e4ee9bc008bb18064387552b5e1c",
+  "size": 95309981,
+  "requires": [],
+  "incompatible_with": []
+}
