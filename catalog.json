@@ -1,0 +1,6 @@
+{
+  "name": "Modsolver Absolver mods",
+  "mods": [
+    { "manifest_url": "https://raw.githubusercontent.com/d13J0KER/absolver-mods/main/manifests/hollow-mask.json" }
+  ]
+}
