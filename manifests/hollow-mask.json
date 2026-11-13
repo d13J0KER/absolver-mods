@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "id": "hollow-mask",
+  "name": "Hollow Mask",
+  "version": "1.0.0",
+  "author": "J0KER",
+  "description": "",
+  "changelog": "First release",
+  "download_url": "https://github.com/d13J0KER/absolver-mods/releases/download/v1.0.0/hollow-mask-1.0.0.zip",
+  "sha256": "1f607a67d8b8ac15b5ac48376a9804bc0c4b3d07309574bd786605d33a67896b",
+  "size": 6437592,
+  "requires": [],
+  "incompatible_with": []
+}
