@@ -1,8 +1,17 @@
 {
   "name": "Modsolver Absolver mods",
   "mods": [
-    { "manifest_url": "https://raw.githubusercontent.com/d13J0KER/absolver-mods/main/manifests/hollow-mask.json" },
-    { "manifest_url": "https://raw.githubusercontent.com/d13J0KER/absolver-mods/main/manifests/absolver-plus.json" },
-    { "manifest_url": "https://raw.githubusercontent.com/d13J0KER/absolver-mods/main/manifests/tournament-maps.json" }
+    {
+      "manifest_url": "https://raw.githubusercontent.com/d13J0KER/absolver-mods/main/manifests/hollow-mask.json"
+    },
+    {
+      "manifest_url": "https://raw.githubusercontent.com/d13J0KER/absolver-mods/main/manifests/absolver-plus.json"
+    },
+    {
+      "manifest_url": "https://raw.githubusercontent.com/d13J0KER/absolver-mods/main/manifests/tournament-maps.json"
+    },
+    {
+      "manifest_url": "https://raw.githubusercontent.com/d13J0KER/absolver-mods/main/manifests/Sword-Reskins.json"
+    }
   ]
 }
