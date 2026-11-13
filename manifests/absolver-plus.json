@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "id": "absolver-plus",
+  "name": "Absolver Plus",
+  "version": "1.0.0",
+  "author": "Modsolver",
+  "description": "",
+  "changelog": "initial git commit",
+  "download_url": "https://github.com/d13J0KER/absolver-mods/releases/download/absolver-plus-v1.0.0/absolver-plus-1.0.0.zip",
+  "sha256": "232cd934e14205238e0615a57f0dbd809315038ffe73829adf1771fe73ae44d3",
+  "size": 129203648,
+  "requires": [],
+  "incompatible_with": []
+}
