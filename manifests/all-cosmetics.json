@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "id": "all-cosmetics",
+  "name": "All Cosmetics Mod",
+  "version": "1.0.0",
+  "author": "J0KER",
+  "description": "All Cosmetics as New Gear YIPEE",
+  "changelog": "initial commit",
+  "download_url": "https://github.com/d13J0KER/absolver-mods/releases/download/all-cosmetics-v1.0.0/all-cosmetics.zip",
+  "sha256": "d4094a9b55527e6a35fa36c1329f21b4ee5a345579c0fa049f864ba58d3bec0f",
+  "size": 169036394,
+  "requires": [],
+  "incompatible_with": []
+}
