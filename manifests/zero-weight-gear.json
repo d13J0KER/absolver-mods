@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "id": "zero-weight-gear",
+  "name": "Zero Weight on All Gear",
+  "version": "1.0.0",
+  "author": "CH1RLE",
+  "description": "Remove all stats on gear for fabs",
+  "changelog": "initial commit",
+  "download_url": "https://github.com/d13J0KER/absolver-mods/releases/download/zero-weight-gear-v1.0.0/zero-weight-gear.zip",
+  "sha256": "08f90ab70e88628fbc8184c1f69cbf760f5c537a7a96e4e272d8cbadbcfea758",
+  "size": 248549,
+  "requires": [],
+  "incompatible_with": []
+}
