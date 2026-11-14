@@ -15,6 +15,9 @@
     },
     {
       "manifest_url": "https://raw.githubusercontent.com/d13J0KER/absolver-mods/main/manifests/all-cosmetics.json"
+    },
+    {
+      "manifest_url": "https://raw.githubusercontent.com/d13J0KER/absolver-mods/main/manifests/zero-weight-gear.json"
     }
   ]
 }
