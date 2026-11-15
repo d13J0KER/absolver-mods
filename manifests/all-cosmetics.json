@@ -10,7 +10,7 @@
   "sha256": "e9b363dacce9093a458050036a70f1543e5a96dd0bf8d11922bc2fbacd073103",
   "size": 174339447,
   "requires": [
-    "Absolver Plus"
+    "absolver-plus"
   ],
   "incompatible_with": []
 }
