@@ -2,15 +2,13 @@
   "schema": 1,
   "id": "all-cosmetics",
   "name": "All Cosmetics Mod",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "author": "J0KER",
   "description": "Adds pictos for Abs+ gear and adds flair to the orbiting prayer stones",
   "changelog": "Adds pictos for Abs+ gear and adds flair to the orbiting prayer stones",
-  "download_url": "https://github.com/d13J0KER/absolver-mods/releases/download/all-cosmetics-v1.2.0/all-cosmetics.zip",
-  "sha256": "e9b363dacce9093a458050036a70f1543e5a96dd0bf8d11922bc2fbacd073103",
-  "size": 174339447,
-  "requires": [
-    "absolver-plus"
-  ],
+  "download_url": "https://github.com/d13J0KER/absolver-mods/releases/download/all-cosmetics-v1.2.1/all-cosmetics.zip",
+  "sha256": "0b0f93e1efd00adddf5df37252615045d2d2f267561aa4ebaf33af0b9b607372",
+  "size": 174339436,
+  "requires": [],
   "incompatible_with": []
 }
